@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+<channel>
+<title>Клуб Двоечников</title>
+<link>http://twoclub.ru/</link>
+<description>TwoClub.ru - это своеобразная социальная сеть, где ученики различных учебных заведений: школы, вузы, техникумы, задают вопросы связанные с учебой, и отвечают на них.</description>
+<language>ru-ru</language>
+<author>twoclub</author>
+ 
+<item>
+<title>Открытие сайта</title>
+<link>twoclub.ru</link>
+<description>TwoClub.ru - это своеобразная социальная сеть, где ученики различных учебных заведений: школы, вузы, техникумы, задают вопросы связанные с учебой, и отвечают на них.</description>
+<guid>http://twoclub.ru/registr.php</guid>
+</item>
+<item>
+
+<title>Перспективы развития</title>
+
+<link>http://twoclub.ru/news.html/</link>
+
+<description>Что будет на сайте, дальнейшее развитие проекта.</description>
+
+<pubDate>5 Июля 2015 года</pubDate>
+
+</item>
+</channel>
+</rss>

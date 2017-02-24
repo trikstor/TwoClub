@@ -1,0 +1,5 @@
+Disallow: /images/
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.png$
+Sitemap: https://twoclub.ru/sitemap.xml
